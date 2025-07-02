@@ -1,5 +1,5 @@
 {
-  "name": "validator",
+  "name": "@tamilarasan6258/validator",
   "version": "0.0.0",
   "description": "just a data validation",
   "main": "index.js",
